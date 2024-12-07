@@ -1,4 +1,4 @@
-### https://siarheibalabanovich.github.io/qr-code-react/
+### ![QR Icon](https://upload.wikimedia.org/wikipedia/commons/8/8e/QRCode.png) https://siarheibalabanovich.github.io/qr-code-react/
 
 # React + Vite
 
