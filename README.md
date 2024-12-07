@@ -1,6 +1,6 @@
 ## QR Code Generator & Scanner 🔳📱
 This project is an application for working with QR codes.
-## https://siarheibalabanovich.github.io/qr-code-react/
+### https://siarheibalabanovich.github.io/qr-code-react/
 
 ## Features:
 1. Scanning QR codes using the device's camera (phone or computer).
